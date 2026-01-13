@@ -1,0 +1,47 @@
+    
+1.Explain currently working project
+2.Which type of DTO you are created
+3.What is Lombok
+4.What is Rest API
+5.How do you handle Global Exception
+6.What is difference in MVC Controller(controller) and spring boot controller(RestController) class
+7.How you implement JET Token in your application 
+8.How do you generate report in your application 
+9.How you implement Mail service
+10.What is Native Query and how to write native query
+11.What is Actuator
+12.What is log4j and it's level
+13.Sql query for to calculate average sallary of employee table 
+14.Calculate average sallary of employee using Java 8
+15.String, StringBuffer, StringBuilder Difference 
+16.What is Exception
+17.What is Collection
+18.When we go for set and When we go for list
+19.Write API  for to register student data(Entity, Controller,Service,Repository).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Clover Infotech
+1.Explain Project
+2.@Transactional
+3.What is Synchronisation
+4.Where you use synchronisation in project 
+5.@Controller & @RestController
+6.JWT Token
+7.ConcurrentHashMap
+8.Optional Class(Java8)
+9.Stream API Program
